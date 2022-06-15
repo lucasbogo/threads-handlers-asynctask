@@ -1,6 +1,8 @@
 # threads-handlers-asynctask
 
-## Primeiro trabalho prático da disciplina de desenvolvimento para Dispositivos Móveis do curso de Tecnologia em Análise e Desenvolvimento de Sistemas pela IFPR campus foz do Iguaçu.
+## Descrição:
+
+Primeiro trabalho prático da disciplina de desenvolvimento para Dispositivos Móveis do curso de Tecnologia em Análise e Desenvolvimento de Sistemas pela IFPR campus foz do Iguaçu.
 
 ### Enunciado:
 
